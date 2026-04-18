@@ -1,0 +1,5 @@
+April 18, 2026
+
+This week I created the structure of my Java game project.
+I made the Game superclass and built the main menu system.
+I added Guess the Number and Rock Paper Scissors and both games work.
